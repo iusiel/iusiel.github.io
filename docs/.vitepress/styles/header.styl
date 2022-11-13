@@ -1,0 +1,83 @@
+.nav-main-menu
+    padding 30px 0px
+
+.logo-container
+    padding-bottom 30px
+
+.logo
+    text-decoration none
+    letter-spacing 10px
+
+.main-menu
+  display flex
+  flex-direction column
+  align-content center
+  align-items center
+  justify-content center
+  list-style none
+  padding 0
+  margin 0
+  margin-top 30px
+
+  @media screen and (min-width: $tablet)
+    flex-direction row
+
+  li
+    padding 10px 0px
+
+    @media screen and (min-width: $tablet)
+      padding 0 20px
+
+
+.main-menu__link
+  color: $yellow2
+  text-decoration none
+
+  &::after
+    content: '';
+    border-bottom: 3px solid $yellow2;
+    display: block;
+    transform: scale(0);
+    transition: all ease 0.2s;
+
+  &.active
+    font-weight bold
+
+    &::after
+      transform: scale(1);
+
+
+  &:hover::after
+    transform: scale(1);
+
+.dark-mode .main-menu__link
+  color: $darkModeColor3
+
+  &::after
+    border-color: $darkModeColor3;
+
+.main-menu__toggle-theme
+  background none
+  border none
+  color $yellow2
+  margin 0
+  padding 0
+  font-size 16px
+  cursor pointer
+
+  &::after
+    content: '';
+    border-bottom: 3px solid $yellow2;
+    display: block;
+    transform: scale(0);
+    transition: all ease 0.2s;
+
+  &:hover::after
+    transform: scale(1);
+
+.dark-mode .main-menu__toggle-theme
+  color $darkModeColor3
+  font-size 16px
+
+  &::after
+    border-color $darkModeColor3

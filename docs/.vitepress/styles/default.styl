@@ -1,0 +1,42 @@
+body
+  margin 0
+  padding 0
+
+
+.body
+  background $brown
+  font-family 'Open Sans', sans-serif
+  font-size 100%
+  color $yellow2
+
+  &.dark-mode
+    background: $darkModeColor2
+    color $darkModeColor3
+
+  @media screen and (min-width: $smallDesktop)
+    font-size 16px
+
+    
+img
+  width 100%
+  height auto
+  max-width max-content
+
+.main__container
+  display flex
+  flex-direction column
+  min-height calc(100vh - 275px)
+  padding-top 40px
+
+.container
+  width 90%
+  margin 0 auto
+
+  @media screen and (min-width: $largeDesktop)
+    max-width 1400px
+
+a
+  color $yellow2
+
+.dark-mode a
+  color $darkModeColor3

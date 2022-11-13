@@ -1,0 +1,172 @@
+.home__projects
+    display flex
+    flex-wrap wrap
+    justify-content center
+    margin-top 50px
+
+.home__project
+  flex-basis 100%
+  transition all ease 0.3s
+  opacity 1
+  display flex
+  flex-wrap wrap
+  justify-content center
+  margin-bottom 20px
+
+  @media screen and (min-width: $tablet)
+    flex-basis 50%
+
+.home__project-button
+    width 100%
+    background $yellow
+    text-align center
+    padding 20px
+    cursor pointer
+    transition all ease 0.3s
+
+    &:hover
+      animation: 0.2s 2 alternate bumpUp;
+
+    @media screen and (min-width: $tablet)
+      width 80%
+      padding 50px 20px
+
+    @media screen and (min-width: $smallDesktop)
+      width 90%
+
+.dark-mode .home__project-button
+  background $darkModeColor1
+
+.home__back-to-projects
+  background $yellow;
+  margin 50px auto;
+  text-align center
+  padding 20px
+  cursor pointer
+  transition all ease 0.3s
+  animation: 0.2s 1 forwards scaleUp;
+  display inline-block;
+  font-family 'Open Sans', sans-serif
+  font-size 1rem
+  color $yellow2
+  border none
+
+.dark-mode .home__back-to-projects
+  background $darkModeColor1
+  color $darkModeColor3
+  
+.home__project-summary-container
+  width 100%
+  margin 0 auto
+
+  @media screen and (min-width: $tablet)
+    width 70%
+
+.home__project-details
+  display flex
+  flex-direction column
+
+  @media screen and (min-width: $tablet)
+    flex-direction row
+
+.home__project-details-tech-stack
+  min-width 200px
+  animation 0.2s 1 forwards slideFromUp;
+  order 2
+  margin-top 30px
+  word-break break-word
+
+  @media screen and (min-width: $tablet)
+    order 1
+    padding-right 30px
+    margin-top 0px
+    animation 0.2s 1 forwards slideFromleft;
+
+
+.home__project-summary-title
+  text-align center
+  animation: 0.2s 1 forwards scaleUp; 
+
+.home__project-details-summary
+  animation: 0.2s 1 forwards slideFromDown;
+  order 1
+
+  @media screen and (min-width: $tablet)
+    order 2
+    animation: 0.2s 1 forwards slideFromRight;
+
+
+.home__project-link
+  display block
+  color $yellow2
+
+.dark-mode .home__project-link
+  color $darkModeColor3
+
+.home__project-tagline
+  font-weight normal
+  font-size 1rem
+
+@keyframes scaleUp {
+  from {
+    transform scale(0)
+  }
+  to {
+    transform scale(1)
+  }
+}
+
+@keyframes bumpUp {
+  from {
+    position relative
+    top 0px
+  }
+  to {
+    position relative
+    top 5px
+  }
+}
+
+@keyframes slideFromRight {
+  from {
+    opacity 0
+    transform translateX(50px)
+  }
+  to {
+    opacity 1
+    transform translateX(0px)
+  }
+}
+
+@keyframes slideFromleft {
+  from {
+    opacity 0
+    transform translateX(-50px)
+  }
+  to {
+    opacity 1
+    transform translateX(0px)
+  }
+}
+
+@keyframes slideFromUp {
+  from {
+    opacity 0
+    transform translateY(50px)
+  }
+  to {
+    opacity 1
+    transform translateY(0px)
+  }
+}
+
+@keyframes slideFromDown {
+  from {
+    opacity 0
+    transform translateY(-50px)
+  }
+  to {
+    opacity 1
+    transform translateY(0px)
+  }
+}

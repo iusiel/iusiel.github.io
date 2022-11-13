@@ -1,0 +1,47 @@
+footer
+  flex 1
+  display flex
+  justify-content flex-end
+  align-items center
+  align-content center
+  flex-direction column
+  padding-bottom 20px
+  font-size 0.8rem
+  margin-top 20px
+
+.footer__content
+  border-top 1px solid $brown2;
+  width 50%;
+  text-align center;
+  padding-top 20px;
+
+.dark-mode .footer__content
+  border-color $darkModeColor3
+
+.footer__link
+  color $yellow2
+  text-decoration none
+  display inline-block
+
+  &::after
+    content: '';
+    border-bottom: 1px solid $yellow2;
+    display: block;
+    transform: scale(0);
+    transition: all ease 0.2s;
+
+  &.active
+    font-weight bold
+
+    &::after
+      transform: scale(1);
+
+
+  &:hover::after
+    transform: scale(1);
+
+.dark-mode .footer__link
+  color $darkModeColor3
+
+  &::after
+    border-bottom: 1px solid $darkModeColor3;
