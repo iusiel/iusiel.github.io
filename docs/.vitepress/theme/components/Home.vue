@@ -9,10 +9,6 @@ export default {
     };
   },
 
-  mounted() {
-    console.log("test");
-  },
-
   methods: {
     showProject(project) {
       this.projectBeingShown = project;
