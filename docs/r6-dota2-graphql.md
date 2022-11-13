@@ -1,17 +1,17 @@
 ---
 title: R6, Dota 2 and GraphQL?
 meta:
-  - name: description
-    content: Some updates abourt r6, dota2 and graphql.
-  - property: og:image
-    content: /images/logo.jpg
-  - property: og:type
-    content: website
+    - name: description
+      content: Some updates abourt r6, dota2 and graphql.
+    - property: og:image
+      content: /images/logo.jpg
+    - property: og:type
+      content: website
 activeLink: random
 post:
-  title: R6, Dota 2 and GraphQL?
-  formattedDate: October 22, 2022
-  date: 2022-10-22
+    title: R6, Dota 2 and GraphQL?
+    formattedDate: October 22, 2022
+    date: 2022-10-22
 ---
 
 <script setup>

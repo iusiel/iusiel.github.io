@@ -1,17 +1,17 @@
 ---
 title: First!
 meta:
-  - name: description
-    content: First Post
-  - property: og:image
-    content: /images/logo.jpg
-  - property: og:type
-    content: website
+    - name: description
+      content: First Post
+    - property: og:image
+      content: /images/logo.jpg
+    - property: og:type
+      content: website
 activeLink: random
 post:
-  title: First!
-  formattedDate: September 20, 2022
-  date: 2022-09-20
+    title: First!
+    formattedDate: September 20, 2022
+    date: 2022-09-20
 ---
 
 <script setup>

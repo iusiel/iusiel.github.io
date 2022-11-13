@@ -1,17 +1,17 @@
 ---
 title: Creating GraphQL server from Laravel app
 meta:
-  - name: description
-    content: Creating GraphQL server using https://github.com/rebing/graphql-laravel
-  - property: og:image
-    content: /images/logo.jpg
-  - property: og:type
-    content: website
+    - name: description
+      content: Creating GraphQL server using https://github.com/rebing/graphql-laravel
+    - property: og:image
+      content: /images/logo.jpg
+    - property: og:type
+      content: website
 activeLink: random
 post:
-  title: Creating GraphQL server from Laravel app
-  formattedDate: November 1, 2022
-  date: 2022-11-01
+    title: Creating GraphQL server from Laravel app
+    formattedDate: November 1, 2022
+    date: 2022-11-01
 ---
 
 <script setup>
@@ -180,10 +180,10 @@ To check if the query is working, you can visit **/graphiql** and use the follow
 
 ```graphql
 query FetchUsers {
-  users {
-    id
-    email
-  }
+    users {
+        id
+        email
+    }
 }
 ```
 

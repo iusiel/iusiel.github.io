@@ -1,17 +1,17 @@
 ---
 title: To write or not?
 meta:
-  - name: description
-    content: One thing that I always wanted to do was write a story for a game. Like many others, I manage to write something but then get discouraged halfway through until I stop finishing that particular story.
-  - property: og:image
-    content: /images/logo.jpg
-  - property: og:type
-    content: website
+    - name: description
+      content: One thing that I always wanted to do was write a story for a game. Like many others, I manage to write something but then get discouraged halfway through until I stop finishing that particular story.
+    - property: og:image
+      content: /images/logo.jpg
+    - property: og:type
+      content: website
 activeLink: random
 post:
-  title: To write or not?
-  formattedDate: October 1, 2022
-  date: 2022-10-01
+    title: To write or not?
+    formattedDate: October 1, 2022
+    date: 2022-10-01
 ---
 
 <script setup>
