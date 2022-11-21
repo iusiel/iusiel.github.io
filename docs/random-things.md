@@ -10,6 +10,12 @@ meta:
 activeLink: random
 
 posts:
+    - title: Migrating to VitePress
+      formattedDate: November 21, 2022
+      date: 2022-11-21
+      summary: Migrating my site from VuePress to VitePress
+      link: /migrating-to-vitepress
+
     - title: Creating GraphQL server from Laravel app
       formattedDate: November 1, 2022
       date: 2022-11-01
