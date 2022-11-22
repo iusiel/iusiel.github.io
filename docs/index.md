@@ -15,13 +15,15 @@ projects:
       projectLinks:
           - https://iusiel.netlify.app/
           - https://iusiel.github.io/
-          - https://github.com/iusiel/portfolio
+          - https://github.com/iusiel/iusiel.github.io
       techStackUsed:
-          - VuePress
+          - VitePress
       summary: 'You&lsquo;re looking at it right now. <br/><br/> I decided to use VuePress for my portfolio site since I want to learn Jamstack. Maybe this is not the best use for VuePress since it was designed with technical documentation in mind but I enjoyed using VuePress for this site. It was also nice to learn stylus since this is the first time that I have used it. I tried to use a color scheme that combines green and yellow (which are my favorite colors).  
       <br/><br/>
       I have implemented some subtle animations, but overall, I think the design is quite simple (I am not good at creating a design). <br/><br/>
-      The site has three main pages, the home page, the about me page, and the random things (blog) page.'
+      The site has three main pages, the home page, the about me page, and the random things (blog) page. <br/><br/> <i>I have since migrated the site to VitePress because VuePress was not working properly on my local machine.</i>'
+
+
     - title: Lap Times Saver
       tagline: For saving lap times
       image: 
