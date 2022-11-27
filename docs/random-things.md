@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Random Things - Nov 27, 2022
+      date: 2022-11-27
+      summary: Learning about JavaScript Dateformatter and deploying Vue.JS application to Github pages.
+      link: /random-things-nov-27-2022
+
     - title: Migrating to VitePress
       date: 2022-11-21
       summary: Migrating my site from VuePress to VitePress
