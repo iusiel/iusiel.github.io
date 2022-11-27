@@ -1,5 +1,6 @@
 ---
 title: Creating GraphQL server from Laravel app
+date: 2022-11-01
 meta:
     - name: description
       content: Creating GraphQL server using https://github.com/rebing/graphql-laravel
@@ -8,10 +9,6 @@ meta:
     - property: og:type
       content: website
 activeLink: random
-post:
-    title: Creating GraphQL server from Laravel app
-    formattedDate: November 1, 2022
-    date: 2022-11-01
 ---
 
 <script setup>

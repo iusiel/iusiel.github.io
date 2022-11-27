@@ -1,7 +1,9 @@
-<script>
-export default {
-    name: "RandomThings",
-};
+<script setup>
+function formatDate(datetoFormat) {
+    const options = { dateStyle: "long" };
+    const dateObject = new Date(datetoFormat);
+    return new Intl.DateTimeFormat("en-PH", options).format(dateObject);
+}
 </script>
 
 <template>
@@ -12,7 +14,7 @@ export default {
             <a :href="post.link"
                 ><h3 class="blog__title">{{ post.title }}</h3>
                 <time :datetime="post.date" class="blog__time">{{
-                    post.formattedDate
+                    formatDate(post.date)
                 }}</time>
                 <p>
                     {{ post.summary }}

@@ -1,5 +1,6 @@
 ---
 title: Learning Rainbow Six Siege
+date: 2022-09-23
 meta:
     - name: description
       content: Trying to learn rainbow six siege
@@ -8,10 +9,6 @@ meta:
     - property: og:type
       content: website
 activeLink: random
-post:
-    title: Learning Rainbow Six Siege
-    formattedDate: September 23, 2022
-    date: 2022-09-23
 ---
 
 <script setup>

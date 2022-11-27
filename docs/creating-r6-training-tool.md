@@ -1,5 +1,6 @@
 ---
 title: Creating R6 Training Tool
+date: 2022-10-08
 meta:
     - name: description
       content: Trying to learn rainbow six siege
@@ -8,10 +9,6 @@ meta:
     - property: og:type
       content: website
 activeLink: random
-post:
-    title: Creating R6 Training Tool
-    formattedDate: October 8, 2022
-    date: 2022-10-08
 ---
 
 <script setup>

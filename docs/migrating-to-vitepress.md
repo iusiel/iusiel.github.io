@@ -1,5 +1,6 @@
 ---
 title: Migrating to VitePress
+date: 2022-11-21
 meta:
     - name: description
       content: Migrating my site from VuePress to VitePress
@@ -8,10 +9,6 @@ meta:
     - property: og:type
       content: website
 activeLink: random
-post:
-    title: Migrating to VitePress
-    formattedDate: November 21, 2022
-    date: 2022-11-21
 ---
 
 <script setup>

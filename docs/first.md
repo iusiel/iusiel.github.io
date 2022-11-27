@@ -1,5 +1,6 @@
 ---
 title: First!
+date: 2022-09-20
 meta:
     - name: description
       content: First Post
@@ -8,10 +9,6 @@ meta:
     - property: og:type
       content: website
 activeLink: random
-post:
-    title: First!
-    formattedDate: September 20, 2022
-    date: 2022-09-20
 ---
 
 <script setup>
