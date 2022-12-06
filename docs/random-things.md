@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Integrating Cypress and Vitest
+      date: 2022-12-06
+      summary: Adding Cypress and Vitest to my bootstrap frameworks.
+      link: /integrating-cypress-and-vitest
+
     - title: Random Things - Nov 27, 2022
       date: 2022-11-27
       summary: Learning about JavaScript Dateformatter and deploying Vue.JS application to Github pages.
