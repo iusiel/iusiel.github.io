@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: CPU and GPU upgrade
+      date: 2022-12-11
+      summary: As a reward to myself, I decided to upgrade my CPU and GPU.
+      link: /cpu-and-gpu-upgrade
+
     - title: Integrating Cypress and Vitest
       date: 2022-12-06
       summary: Adding Cypress and Vitest to my bootstrap frameworks.
