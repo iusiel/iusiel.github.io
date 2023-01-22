@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: 2022 Look Back
+      date: 2023-01-22
+      summary: A look back at the past year.
+      link: /2022-look-back
+
     - title: CPU and GPU upgrade
       date: 2022-12-11
       summary: As a reward to myself, I decided to upgrade my CPU and GPU.
