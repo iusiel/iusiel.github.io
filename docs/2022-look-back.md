@@ -13,8 +13,6 @@ activeLink: random
 
 <script setup>
 import BlogPost from './.vitepress/theme/components/BlogPost.vue';
-import './.vitepress/styles/codeblock.styl';
-
 </script>
 
 <BlogPost>

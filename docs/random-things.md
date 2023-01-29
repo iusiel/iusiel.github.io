@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: 2023 Look Ahead
+      date: 2023-01-29
+      summary: What I am aiming for in 2023
+      link: /2023-look-ahead
+
     - title: 2022 Look Back
       date: 2023-01-22
       summary: A look back at the past year.
