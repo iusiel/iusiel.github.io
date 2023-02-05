@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Running Training and Guitar Things
+      date: 2023-02-05
+      summary: Some things I am focused on right now outside of web development
+      link: /running-training-guitar-things
+
     - title: 2023 Look Ahead
       date: 2023-01-29
       summary: What I am aiming for in 2023
