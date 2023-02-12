@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Replacing Guitar Parts and Continuing Training for 10K run
+      date: 2023-02-12
+      summary: The new parts have arrived so I attempted to replace the guitar strings and tuning pegs.
+      link: /replacing-guitar-parts-training-10k
+
     - title: Running Training and Guitar Things
       date: 2023-02-05
       summary: Some things I am focused on right now outside of web development
