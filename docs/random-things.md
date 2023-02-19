@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Storybook Updates and Guitar Training
+      date: 2023-02-19
+      summary: Progress about the storybook site and guitar training.
+      link: /storybook-updates-and-guitar-training
+
     - title: Replacing Guitar Parts and Continuing Training for 10K run
       date: 2023-02-12
       summary: The new parts have arrived so I attempted to replace the guitar strings and tuning pegs.
