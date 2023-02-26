@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: 5K Practice Run
+      date: 2023-02-26
+      summary: I did a practice 5k run.
+      link: /5k-practice-run
+
     - title: Storybook Updates and Guitar Training
       date: 2023-02-19
       summary: Progress about the storybook site and guitar training.
