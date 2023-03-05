@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Escape Room and Half-Marathon Preparation
+      date: 2023-03-05
+      summary: I did an escape room challenge for the first time. I am also preparing for a race on June 4.
+      link: /escape-room-21k-preparation
+
     - title: 5K Practice Run
       date: 2023-02-26
       summary: I did a practice 5k run.
