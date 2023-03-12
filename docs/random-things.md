@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: New 5K PB and Storybook Continuation
+      date: 2023-03-12
+      summary: I hit a new 5K personal best while training this week. I also continued developing the storybook software.
+      link: /new-5k-pb-storybook-continuation
+
     - title: Escape Room and Half-Marathon Preparation
       date: 2023-03-05
       summary: I did an escape room challenge for the first time. I am also preparing for a race on June 4.
