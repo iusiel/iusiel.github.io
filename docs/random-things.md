@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Week 2 of Half-Marathon Training, Continuing Learning to Draw
+      date: 2023-03-19
+      summary: Week 2 of my half-marathon training. I have also somewhat a new renewed interest in drawing.
+      link: /week-2-hm-training-continuing-learning-to-draw
+
     - title: New 5K PB and Storybook Continuation
       date: 2023-03-12
       summary: I hit a new 5K personal best while training this week. I also continued developing the storybook software.
