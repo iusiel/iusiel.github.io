@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Week 3 - Week 4 Training, Storybook Progress
+      date: 2023-04-02
+      summary: Week 3 and 4 of my half-marathon training. Also some progress in my storybook development.
+      link: /week-3-4-hm-training-storybook-progress
+
     - title: Week 2 of Half-Marathon Training, Continuing Learning to Draw
       date: 2023-03-19
       summary: Week 2 of my half-marathon training. I have also somewhat a new renewed interest in drawing.
