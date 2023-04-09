@@ -12,7 +12,9 @@ export default {
 
     computed: {
         toggleButtonText() {
-            return this.themeColor === "default" ? "Dark mode" : "Normal";
+            return this.themeColor === "default"
+                ? "Dark mode - Off"
+                : "Dark mode - On";
         },
     },
 };
