@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Week 6 Training
+      date: 2023-04-16
+      summary: Week 6 training for my upcoming half-marathon
+      link: /week-6-training
+
     - title: Week 5 Training, Why Automated Testing is Important
       date: 2023-04-09
       summary: Week 5 training for my upcoming half-marathon and why I want to implement automated testing
