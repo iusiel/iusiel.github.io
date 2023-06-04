@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Half Marathon Race Day
+      date: 2023-06-04
+      summary: The day has finally come. Let's see if I can hit my target time of 02:30:00
+      link: /half-marathon-race-day
+
     - title: Week 6 Training
       date: 2023-04-16
       summary: Week 6 training for my upcoming half-marathon
