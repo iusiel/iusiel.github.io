@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Official Half Marathon Results and Updates on Personal Projects
+      date: 2023-06-12
+      summary: An update on my official half marathon and some projects that I aim to finish this year
+      link: /official-half-marathon-result-personal-project-updates
+
     - title: Half Marathon Race Day
       date: 2023-06-04
       summary: The day has finally come. Let's see if I can hit my target time of 02:30:00
