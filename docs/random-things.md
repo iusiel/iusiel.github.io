@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: SYBAG Project is underway
+      date: 2023-06-19
+      summary: I have started developing "Should you buy a game"
+      link: /sybag-project-underway
+
     - title: Official Half Marathon Results and Updates on Personal Projects
       date: 2023-06-12
       summary: An update on my official half marathon and some projects that I aim to finish this year
