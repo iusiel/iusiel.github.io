@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: SYBAG continuation and other various updates
+      date: 2023-08-07
+      summary: Progress on the SYBAG project. Also updates about unrelated things
+      link: /sybag-continuation-various-updates
+
     - title: SYBAG Project is underway
       date: 2023-06-19
       summary: I have started developing "Should you buy a game"
