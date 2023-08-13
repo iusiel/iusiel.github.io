@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: 10K Training Update
+      date: 2023-08-13
+      summary: An update on my 10k training
+      link: /10k-training-update
+
     - title: SYBAG continuation and other various updates
       date: 2023-08-07
       summary: Progress on the SYBAG project. Also updates about unrelated things
