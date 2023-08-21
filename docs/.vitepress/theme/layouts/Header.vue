@@ -41,7 +41,7 @@ export default {
                             'main-menu__link': true,
                         }"
                         href="/"
-                        >Home</a
+                        >Main</a
                     >
                 </li>
                 <li>
