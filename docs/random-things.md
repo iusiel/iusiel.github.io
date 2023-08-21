@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Learning Astro. Additional running updates
+      date: 2023-08-21
+      summary: I am learning how to use Astro.
+      link: /learning-astro-additional-running-updates
+
     - title: 10K Training Update
       date: 2023-08-13
       summary: An update on my 10k training
