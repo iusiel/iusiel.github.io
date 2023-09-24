@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Run journal update and other things.
+      date: 2023-09-24
+      summary: Updates on the run journal that I have been developing.
+      link: /run-journal-update-20230924
+
     - title: Learning Astro. Additional running updates
       date: 2023-08-21
       summary: I am learning how to use Astro.
