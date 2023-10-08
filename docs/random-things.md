@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Upcoming 10K Time Trial and Site Revamp.
+      date: 2023-10-08
+      summary: Last week before going to my 10k time trial. I am also planning to revising my portfolio site.
+      link: /upcoming-10k-trial-site-revamp
+
     - title: Run journal update and other things.
       date: 2023-09-24
       summary: Updates on the run journal that I have been developing.
