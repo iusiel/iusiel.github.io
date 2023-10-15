@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Rescheduled 10K Trial
+      date: 2023-10-15
+      summary: Due to unforeseen circumstances, I rescheduled my 10k time trial
+      link: /rescheduled-10k-trial
+
     - title: Upcoming 10K Time Trial and Site Revamp.
       date: 2023-10-08
       summary: Last week before going to my 10k time trial. I am also planning to revising my portfolio site.
