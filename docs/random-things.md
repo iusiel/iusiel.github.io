@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Legendary Palm Tree
+      date: 2023-10-30
+      summary: A new project that I want to regularly maintain
+      link: /legendary-palm-tree
+
     - title: Rescheduled 10K Trial
       date: 2023-10-15
       summary: Due to unforeseen circumstances, I rescheduled my 10k time trial
