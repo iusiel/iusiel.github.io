@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Trying out Petite Vue
+      date: 2023-11-05
+      summary: Trying out Petite Vue
+      link: /trying-out-petite-vue
+
     - title: Legendary Palm Tree
       date: 2023-10-30
       summary: A new project that I want to regularly maintain
