@@ -125,6 +125,13 @@ projects:
 
       For this one, I tried first if the news site provides a RSS feed. If the news site provides a RSS feed, that is what I will use to display the news articles. If the site does not provide any RSS feed, what I did is parse through the HTML code of the site and then get all the relevant information that I need in order to display the news articles.
       '
+skills:
+    - PHP 8
+    - Laravel 8
+    - Vue 3
+    - VitePress
+    - Symfony 6
+    - Astro
 ---
 
 <script setup>

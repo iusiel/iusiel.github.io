@@ -23,7 +23,15 @@ export default {
                 href="https://github.com/iusiel"
                 target="_blank"
                 rel="noopener"
-                >Github</a
+                >GitHub</a
+            >
+            |
+            <a
+                class="footer__link"
+                href="mailto:iusiel@outlook.com"
+                target="_blank"
+                rel="noopener"
+                >iusiel@outlook.com</a
             >
             <div>{{ copyright }}</div>
         </div>

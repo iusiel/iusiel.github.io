@@ -39,9 +39,7 @@ export default {
         />
         <div class="main__container">
             <main>
-                <div class="container">
-                    <Content />
-                </div>
+                <Content />
             </main>
             <Footer />
         </div>

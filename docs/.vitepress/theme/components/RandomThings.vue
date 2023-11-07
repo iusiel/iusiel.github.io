@@ -7,7 +7,7 @@ function formatDate(datetoFormat) {
 </script>
 
 <template>
-    <div>
+    <div class="container">
         <h1 class="blog__header">RANDOM THINGS</h1>
         <h2 class="blog__subheader">Whatever comes to mind</h2>
         <div v-for="(post, index) in $frontmatter.posts" class="blog__section">

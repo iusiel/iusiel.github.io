@@ -28,11 +28,7 @@ export default {
                     >IUSIEL</a
                 >
             </div>
-            <p style="text-align: center">
-                Developing web applications using PHP. I mainly use Laravel for
-                my projects. I am currently learning Symfony, Vue.JS, and
-                Jamstack.
-            </p>
+            <p class="nav-description">My personal website</p>
             <ul class="main-menu">
                 <li>
                     <a
@@ -42,16 +38,6 @@ export default {
                         }"
                         href="/"
                         >Main</a
-                    >
-                </li>
-                <li>
-                    <a
-                        :class="{
-                            active: activeLink === 'about',
-                            'main-menu__link': true,
-                        }"
-                        href="/about-me"
-                        >About Me</a
                     >
                 </li>
                 <li>
