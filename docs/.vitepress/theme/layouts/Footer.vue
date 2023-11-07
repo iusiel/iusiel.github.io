@@ -17,7 +17,7 @@ export default {
 <template>
     <footer>
         <div class="footer__content">
-            <div>Created with VuePress.</div>
+            <div>Created with VitePress.</div>
             <a
                 class="footer__link"
                 href="https://github.com/iusiel"
