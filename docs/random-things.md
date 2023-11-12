@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Random Things Nov 12, 2023
+      date: 2023-11-12
+      summary: Some random things I wanted to write
+      link: /random-things-nov-12-2023
+
     - title: Trying out Petite Vue
       date: 2023-11-05
       summary: Trying out Petite Vue
