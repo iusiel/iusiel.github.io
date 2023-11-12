@@ -7,7 +7,7 @@ function formatDate(datetoFormat) {
 </script>
 
 <template>
-    <div>
+    <div class="container">
         <h1 class="blog__header">{{ $frontmatter.title }}</h1>
         <time :datetime="$frontmatter.date" class="blog__time center">{{
             formatDate($frontmatter.date)
