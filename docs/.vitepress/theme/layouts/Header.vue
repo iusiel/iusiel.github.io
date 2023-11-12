@@ -28,7 +28,7 @@ export default {
                     >IUSIEL</a
                 >
             </div>
-            <p class="nav-description">My personal website</p>
+            <!-- <p class="nav-description">My personal website</p> -->
             <ul class="main-menu">
                 <li>
                     <a
