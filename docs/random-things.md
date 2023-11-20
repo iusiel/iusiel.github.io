@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Chess Things and Injury Update
+      date: 2023-11-20
+      summary: Just felt like taking up chess. Also some updates on my rolled ankle.
+      link: /chess-things-injury-update
+
     - title: Random Things Nov 12, 2023
       date: 2023-11-12
       summary: Some random things I wanted to write
