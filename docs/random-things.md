@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: New Project Ideas and Chess Updates
+      date: 2023-11-26
+      summary: Some new project ideas that I have. Also some chess updates.
+      link: /new-project-ideas-and-chess-updates
+
     - title: Chess Things and Injury Update
       date: 2023-11-20
       summary: Just felt like taking up chess. Also some updates on my rolled ankle.
