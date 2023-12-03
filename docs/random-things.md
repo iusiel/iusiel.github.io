@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Probable Train, R6 Tactics and Chess
+      date: 2023-12-03
+      summary: Updates on my side projects and chess.
+      link: /probable-train-r6-tactics-chess
+
     - title: New Project Ideas and Chess Updates
       date: 2023-11-26
       summary: Some new project ideas that I have. Also some chess updates.
