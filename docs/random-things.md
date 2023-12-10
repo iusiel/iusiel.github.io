@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Finished Probable Train. Playing on Lichess
+      date: 2023-12-10
+      summary: I have finished the main functionality of probable train. I have also started playing other people on Lichess.
+      link: /finished-probable-train-playing-on-lichess
+
     - title: Probable Train, R6 Tactics and Chess
       date: 2023-12-03
       summary: Updates on my side projects and chess.
