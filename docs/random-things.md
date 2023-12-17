@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Dabbling on PWA
+      date: 2023-12-17
+      summary: The next step that I am doing for probable train is turn it into a PWA.
+      link: /dabbling-on-pwa
+
     - title: Finished Probable Train. Playing on Lichess
       date: 2023-12-10
       summary: I have finished the main functionality of probable train. I have also started playing other people on Lichess.
