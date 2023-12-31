@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: 2023 Almost Finished
+      date: 2023-12-23
+      summary: The year is almost finished.
+      link: /2023-almost-finished
+
     - title: Dabbling on PWA
       date: 2023-12-17
       summary: The next step that I am doing for probable train is turn it into a PWA.
