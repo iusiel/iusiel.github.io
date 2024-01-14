@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: 2024 First!
+      date: 2024-01-14
+      summary: First post for 2024.
+      link: /2024-first
+
     - title: 2023 Almost Finished
       date: 2023-12-23
       summary: The year is almost finished.
