@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Run Journal Update and Chess Updates
+      date: 2024-01-21
+      summary: Updates on run journal and chess.
+      link: /run-journal-update-chess-updates
+
     - title: 2024 First!
       date: 2024-01-14
       summary: First post for 2024.
