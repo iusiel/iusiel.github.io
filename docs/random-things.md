@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Tekken 8, Chess Training and Retrieval Practice
+      date: 2024-02-11
+      summary: Tekken 8, Chess Training and Retrieval Practice
+      link: /tekken-8-chess-retrieval-practice
+
     - title: Run Journal Update and Chess Updates
       date: 2024-01-21
       summary: Updates on run journal and chess.
