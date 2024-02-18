@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Some Chess Frustrations
+      date: 2024-02-18
+      summary: Some chess frustrations and other updates.
+      link: /some-chess-frustrations
+
     - title: Tekken 8, Chess Training and Retrieval Practice
       date: 2024-02-11
       summary: Tekken 8, Chess Training and Retrieval Practice
