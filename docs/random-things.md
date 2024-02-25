@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Practice Sessions and Breaks
+      date: 2024-02-25
+      summary: My progress in using retrieval practice for learning chess and Tekken.
+      link: /practice-sessions-and-breaks
+
     - title: Some Chess Frustrations
       date: 2024-02-18
       summary: Some chess frustrations and other updates.
