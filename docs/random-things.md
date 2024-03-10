@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Reading Regularly and Chess Updates
+      date: 2024-03-10
+      summary: I am trying to create a reading habit. Also some chess updates.
+      link: /reading-regularly-chess-updates
+
     - title: Practice Sessions and Breaks
       date: 2024-02-25
       summary: My progress in using retrieval practice for learning chess and Tekken.
