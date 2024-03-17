@@ -1,5 +1,5 @@
 ---
-title: Reading Regularly and Chess Updatess
+title: Reading Regularly and Chess Updates
 date: 2024-03-10
 meta:
     - name: description

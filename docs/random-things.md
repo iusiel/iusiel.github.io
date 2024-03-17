@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Supercommunicators, Chess Updates and New Projects
+      date: 2024-03-17
+      summary: I have started reading the book Supercommunicators by Charles Duhigg. Also some chess updates and new projects.
+      link: /supercommunicators-chess-updates-new-projects
+
     - title: Reading Regularly and Chess Updates
       date: 2024-03-10
       summary: I am trying to create a reading habit. Also some chess updates.
