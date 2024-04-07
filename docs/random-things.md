@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: White Plan Finished
+      date: 2024-04-07
+      summary: I have finished the White Plan by Jack Daniels.
+      link: /white-plan-finished
+
     - title: Supercommunicators, Chess Updates and New Projects
       date: 2024-03-17
       summary: I have started reading the book Supercommunicators by Charles Duhigg. Also some chess updates and new projects.
