@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Developing My Own Home Cooked Apps
+      date: 2024-04-14
+      summary: Trying to focus more on my personal projects.
+      link: /developing-my-own-home-cooked-apps
+
     - title: White Plan Finished
       date: 2024-04-07
       summary: I have finished the White Plan by Jack Daniels.
