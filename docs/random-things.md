@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Expenses Tracker Update
+      date: 2024-05-12
+      summary: Some updates on the expenses tracker update I am doing.
+      link: /expenses-tracker-update
+
     - title: Developing My Own Home Cooked Apps
       date: 2024-04-14
       summary: Trying to focus more on my personal projects.
