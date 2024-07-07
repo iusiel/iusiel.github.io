@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Various Updates
+      date: 2024-07-07
+      summary: I haven't been able to write for a long time. This is just updates that came to mind.
+      link: /various-updates
+
     - title: Expenses Tracker Update
       date: 2024-05-12
       summary: Some updates on the expenses tracker update I am doing.
