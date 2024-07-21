@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Chess Helper App Continuation
+      date: 2024-07-21
+      summary: Continuation on my chess helper app
+      link: /chess-helper-app-continuation
+
     - title: Chess Helper App
       date: 2024-07-14
       summary: I am planning to develope a chess helper app to complement on how I train.
