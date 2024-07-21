@@ -17,7 +17,7 @@ posts:
 
     - title: Chess Helper App
       date: 2024-07-14
-      summary: I am planning to develope a chess helper app to complement on how I train.
+      summary: I am planning to develop a chess helper app to complement on how I train.
       link: /chess-helper-app
 
     - title: Various Updates

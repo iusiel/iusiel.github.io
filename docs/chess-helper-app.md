@@ -3,7 +3,7 @@ title: Chess Helper App
 date: 2024-07-14
 meta:
     - name: description
-      content: I am planning to develope a chess helper app to complement on how I train.
+      content: I am planning to develop a chess helper app to complement on how I train.
     - property: og:image
       content: /images/logo.jpg
     - property: og:type
