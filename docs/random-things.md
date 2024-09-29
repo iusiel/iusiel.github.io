@@ -10,6 +10,11 @@ meta:
 activeLink: random
 
 posts:
+    - title: Software Architecture, Chess and Various Updates
+      date: 2024-09-29
+      summary: Various updates related to things I am learning right now.
+      link: /software-architecture-chess-updates
+
     - title: Chess Helper App Continuation
       date: 2024-07-21
       summary: Continuation on my chess helper app
